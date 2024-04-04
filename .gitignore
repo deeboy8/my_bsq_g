@@ -37,7 +37,7 @@
 *.hex
 
 # Debug files
-*.dSYM/
+*.dSYM/Contents
 *.su
 *.idb
 *.pdb
